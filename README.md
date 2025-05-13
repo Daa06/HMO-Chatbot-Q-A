@@ -1,4 +1,4 @@
-# Chatbot Phase 2: Medical Services Information System
+# Chatbot: Medical Services Information System
 
 ## Project Description
 
